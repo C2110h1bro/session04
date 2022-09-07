@@ -5,7 +5,9 @@
 
 # Cài đặt dự ánh
 <h2>cài đặt npm :</h2>
-`Test`
+  ```sh
+  npm install npm@latest -g
+  ```
 <h3>Thử HTML  <code> npm i </code></h3>
 <ol>
   <li>First item</li>
