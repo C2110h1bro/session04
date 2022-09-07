@@ -4,7 +4,8 @@
 
 
 # Cài đặt dự ánh
-<h2>cài đặt npm :</h2>
+
+* cài đặt
   ```sh
   npm install npm@latest -g
   ```
