@@ -1,0 +1,22 @@
+{
+  "name": "session04",
+  "version": "1.0.0",
+  "description": "FW-choi-choi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C2110h1bro/session04.git"
+  },
+  "author": "Thien That tah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C2110h1bro/session04/issues"
+  },
+  "homepage": "https://github.com/C2110h1bro/session04#readme",
+  "dependencies": {
+    "vuex": "^4.0.2"
+  }
+}

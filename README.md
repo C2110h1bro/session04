@@ -9,6 +9,18 @@
   ```sh
   npm install npm@latest -g
   ```
+* cài json-server
+  ```sh
+  npm install npm@latest -g
+  ```
+* run json-server
+  ```sh
+  npm install npm@latest -g
+  ```
+* run : 
+  ```sh
+  npm run ...
+  ```
 <h3>Thử HTML  <code> npm i </code></h3>
 <ol>
   <li>First item</li>
