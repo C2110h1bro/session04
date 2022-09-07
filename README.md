@@ -3,5 +3,14 @@
 ## Dự án này chơi chơi thôi để chuyên nghiệp cần templte mãu của file readme có săn tren mang
 
 
-# Cài đặt dự án
+# Cài đặt dự ánh
+<h2>cài đặt npm : `npm install -g`</h2>
 <h3>Thử HTML</h3>
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ol>
+<p>Link Demo <https://www.markdownguide.org></p>
+
