@@ -4,8 +4,9 @@
 
 
 # Cài đặt dự ánh
-<h2>cài đặt npm : `npm install -g`</h2>
-<h3>Thử HTML</h3>
+<h2>cài đặt npm :</h2>
+`Test`
+<h3>Thử HTML  <code> npm i </code></h3>
 <ol>
   <li>First item</li>
   <li>Second item</li>
